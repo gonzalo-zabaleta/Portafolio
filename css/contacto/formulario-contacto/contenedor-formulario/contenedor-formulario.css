@@ -1,0 +1,9 @@
+.contenedor-formulario{
+
+    background: linear-gradient(90.19deg,#6039fd .16%,#301C7E 99.84%);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1.5rem;
+    padding: 0 .5rem;
+}

@@ -1,0 +1,6 @@
+.descripcion_contenedor-sobre_mi{
+
+    display: flex;
+    flex-direction: column;
+    padding: 1rem 0;
+}

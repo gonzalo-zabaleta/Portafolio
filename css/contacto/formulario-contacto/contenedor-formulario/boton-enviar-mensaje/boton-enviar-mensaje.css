@@ -1,0 +1,12 @@
+.boton-enviar-mensaje{
+
+    align-self: center;
+    background: linear-gradient(90.19deg,#6039fd .16%,#301C7E 99.84%);
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 0 14px rgb(96 57 253 / 78%);
+    color: #fff;
+    font-size: 18px;
+    height: 50px;
+    width: 250px;
+}

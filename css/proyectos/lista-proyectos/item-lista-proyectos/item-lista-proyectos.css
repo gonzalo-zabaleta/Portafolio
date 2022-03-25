@@ -1,0 +1,8 @@
+.item-lista-proyectos{
+
+    align-items: center;
+    display: flex;
+    height: 500px;
+    margin-bottom: 2rem;
+    justify-content: center;
+}

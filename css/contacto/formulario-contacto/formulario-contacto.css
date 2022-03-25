@@ -1,0 +1,7 @@
+.formulario-contacto{
+
+    display: flex;
+    flex-direction: column;
+    margin: 1rem auto;
+    width: 40%;
+}

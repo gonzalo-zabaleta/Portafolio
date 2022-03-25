@@ -1,0 +1,17 @@
+.cuerpo{
+    background: linear-gradient(180.06deg,#070104 .05%,#3d0530 71.07%);
+    color: white;
+    width: 70%;
+    margin: 0 auto;
+}
+
+.root{
+    --color-primary: #eb4b98;
+    --color-blue: #3441ff;
+    --color-purple--soft: #671ef2;
+    --color-purple: #b321f9;
+    --color-green: #11c75a;
+    --color-orange: #ef8a3c;
+    --color-pink: #f26df9;
+    --gradient-pink: linear-gradient(90.19deg,#ff547b 0.16%,#d639fd 99.84%);
+}

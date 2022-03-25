@@ -1,0 +1,12 @@
+.enlace-item-lista-encabezado{
+
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.enlace-item-lista-encabezado:hover{
+
+    color: #671ef6;
+    font-size: 22px;
+    transition: all 1s;
+}

@@ -1,0 +1,9 @@
+.btn_demo-enlace-proyectos{
+
+    background: #3d0631;
+    border-radius: 100px;
+    box-shadow: 0 0 14px rgb(235 75 152 / 78%);
+    color: #fff;
+    padding: 20px;
+    text-decoration: none;
+}
