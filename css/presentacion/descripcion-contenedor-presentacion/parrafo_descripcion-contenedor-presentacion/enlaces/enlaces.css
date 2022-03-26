@@ -27,3 +27,9 @@
     color: #00763d;
     text-decoration: none;
 }
+
+.enlace_oracle-presentacion:hover, .enlace_alura-presentacion:hover, .enlace_seProgramar-presentacion:hover, 
+.enlace_argentinaPrograma-presentacion:hover, .enlace_creceConGoogle-presentacion:hover{
+
+    text-shadow: 1px 1px 2px #000, 0 0 1.25em blue, 0 0 0.5em blue;
+}

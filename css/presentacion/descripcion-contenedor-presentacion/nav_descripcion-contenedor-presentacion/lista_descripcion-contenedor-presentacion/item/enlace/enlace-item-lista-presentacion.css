@@ -8,3 +8,9 @@
 
     margin-left: .5rem;
 }
+
+.enlace-item-lista-presentacion:hover{
+
+    color: #6039fd;
+    font-size: 22px;
+}
