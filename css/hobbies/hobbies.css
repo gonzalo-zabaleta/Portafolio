@@ -1,0 +1,7 @@
+.hobbies{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 5rem;
+}
