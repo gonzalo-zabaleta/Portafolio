@@ -1,0 +1,8 @@
+.lista-pie{
+
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 1rem;
+    width: 10%;
+}
