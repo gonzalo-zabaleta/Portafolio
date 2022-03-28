@@ -7,3 +7,10 @@
     padding: 20px;
     text-decoration: none;
 }
+
+.btn_demo-enlace-proyectos:hover{
+
+    background: linear-gradient(90.19deg,#6039fd .16%,#301C7E 99.84%);
+    box-shadow: 0 0 14px rgb(96 57 253 / 78%);
+    transform: translateY(5px);
+}

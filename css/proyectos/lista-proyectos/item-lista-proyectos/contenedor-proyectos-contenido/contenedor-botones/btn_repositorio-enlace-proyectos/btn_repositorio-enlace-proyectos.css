@@ -8,3 +8,10 @@
     text-decoration: none;
     margin-right: 2rem;
 }
+
+.btn_repositorio-enlace-proyectos:hover{
+
+    background: linear-gradient(90.19deg,#bdb0f1 .16%,#7354ee 99.84%);
+    box-shadow: 0 0 14px rgb(96 57 253 / 78%);
+    transform: translateY(5px);
+}
