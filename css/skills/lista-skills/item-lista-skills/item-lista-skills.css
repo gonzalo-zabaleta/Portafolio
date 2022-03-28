@@ -9,3 +9,10 @@
     height: 150px;
     width: 150px;
 }
+
+.item-lista-skills:hover{
+
+    filter: drop-shadow(2px 4px 1px hsl(293, 79%, 32%));
+    transform: scale(1.5);
+    transition: .1s all;
+}
