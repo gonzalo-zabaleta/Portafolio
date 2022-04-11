@@ -5,3 +5,11 @@
     margin: 1rem auto;
     width: 40%;
 }
+
+@media screen and (max-width: 360px) {
+    
+    .formulario-contacto{
+
+        width: 90%;
+    }
+}

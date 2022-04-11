@@ -5,13 +5,20 @@
     margin: 0 auto;
 }
 
-.root{
-    --color-primary: #eb4b98;
-    --color-blue: #3441ff;
-    --color-purple--soft: #671ef2;
-    --color-purple: #b321f9;
-    --color-green: #11c75a;
-    --color-orange: #ef8a3c;
-    --color-pink: #f26df9;
-    --gradient-pink: linear-gradient(90.19deg,#ff547b 0.16%,#d639fd 99.84%);
+@media screen and (max-width: 360px) {
+    
+    .cuerpo{
+
+        margin: 0 auto;
+        width: 90%;
+    }
+}
+
+@media screen and (min-width: 361px) and (max-width: 768px) {
+    
+    .cuerpo{
+
+        margin: 0 auto;
+        width: 80%;
+    }
 }

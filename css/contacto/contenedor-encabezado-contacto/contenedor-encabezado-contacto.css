@@ -5,3 +5,11 @@
     flex-direction: column;
     margin-top: 2rem;
 }
+
+@media screen and (max-width: 360px) {
+    
+    .contenedor-encabezado-contacto{
+
+        align-items: flex-start;
+    }
+}

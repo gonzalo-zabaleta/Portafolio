@@ -1,7 +1,7 @@
 .titulo-formacion{
 
     background: linear-gradient(90deg,rgba(52,65,255,.61) 38.37%,rgba(52,65,255,0) 101.33%);
-    font-size: 30px;
+    font-size: 1.875rem;
     padding: 1.5rem;
     width: 30%;
 }
