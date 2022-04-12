@@ -12,6 +12,18 @@
 
         height: 50%;
         margin: 1rem 0;
+        order: -1;
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 361px) and (max-width: 768px) {
+    
+    .imagen-proyectos{
+
+        height: 70%;
+        margin: 1rem 0;
+        order: -1;
         width: 100%;
     }
 }

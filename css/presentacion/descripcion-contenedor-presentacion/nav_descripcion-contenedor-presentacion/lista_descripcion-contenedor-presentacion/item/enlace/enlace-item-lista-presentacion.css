@@ -14,3 +14,18 @@
     color: #6039fd;
     font-size: 1.375rem;
 }
+
+@media screen and (max-width: 360px) {
+    
+    .enlace-item-lista-presentacion{
+
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .icon-lista-presentacion{
+
+        margin: 0;
+    }
+}

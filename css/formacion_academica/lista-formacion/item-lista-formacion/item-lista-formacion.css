@@ -18,3 +18,12 @@
         margin-bottom: 1rem;
     }
 }
+
+@media screen and (min-width: 361px) and (max-width: 768px) {
+    
+    .item-lista-formacion{
+
+        margin-bottom: 2rem;
+        width: 400px;
+    }
+}

@@ -1,11 +1,19 @@
 .logo-encabezado{
 
-    font-size: 20px;
-    margin-left: 2rem;
+    font-size: 1.25rem;
+    margin: 0 2rem;
     color: #ffffff;
 }
 
 .icon-logo-encabezado{
 
     margin-right: 1rem;
+}
+
+@media screen and (max-width: 360px) {
+    
+    .icon-logo-encabezado{
+
+        margin-left: 1rem;
+    }
 }

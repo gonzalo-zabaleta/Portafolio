@@ -26,3 +26,12 @@
         width: 100px;
     }
 }
+
+@media screen and (min-width: 361px) and (max-width: 768px){
+    
+    .item-lista-hobbies{
+
+        margin: 0 0.25rem 1rem 0.25rem;
+        width: 200px;
+    }
+}

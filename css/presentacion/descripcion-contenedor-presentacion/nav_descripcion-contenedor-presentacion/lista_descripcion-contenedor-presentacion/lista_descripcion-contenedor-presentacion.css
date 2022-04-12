@@ -1,3 +1,4 @@
 .lista_descripcion-contenedor-presentacion{
     display: flex;
+    justify-content: space-between;
 }

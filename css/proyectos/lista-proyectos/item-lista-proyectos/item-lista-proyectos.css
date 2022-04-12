@@ -7,11 +7,12 @@
     justify-content: center;
 }
 
-@media screen and (max-width: 360px) {
+@media screen and (max-width: 768px) {
     
     .item-lista-proyectos{
 
         align-items: flex-start;
         flex-direction: column;
+        height: 100%;
     }
 }
